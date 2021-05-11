@@ -1,7 +1,7 @@
 # ExpenseReimbSystem
 The Expense Reimbursement System (ERS) will manage the process of reimbursing employees for expenses incurred while on company time. All employees in the company can login and submit requests for reimbursement and view their past tickets and pending requests. Finance managers can log in and view all reimbursement requests and past history for all employees in the company. Finance managers are authorized to approve and deny requests for expense reimbursement.
 
-Roles and Responsibilities\
+Roles and Responsibilities
 ==========================
 Applied the DAO Design for database interactions and implementations and Front End Controller Design for handiling requests and reponses.\
 Used JDBC to connect to an PostgreSQL database.\
