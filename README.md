@@ -25,8 +25,12 @@ The Expense Reimbursement System (ERS) will manage the process of reimbursing em
 * Presentated the applicaton displaying its features.
 # Features
 Ready to Use
-* Users can register and login after they are registered
+* Users can register and login after they are registered.
 * When logged in, users based on roles get different dashboards and functionalities.
 * Employees can view past tickets and add a new reimbuirsement request.
 * Admins can view all reimbursements for all employees and filter requests by status.
-* Admins can approve/deny an reimbursement. 
+* Admins can approve/deny an reimbursement.
+
+To-do-List
+* Email confirmation after registeration
+* Passoword encryption
