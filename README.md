@@ -8,6 +8,7 @@ The Expense Reimbursement System (ERS) will manage the process of reimbursing em
 * JavaScript
 * Servlet
 * Ajax
+* Json
 * PostgreSQL
 * Bootstrap
 * JUnit
@@ -22,3 +23,10 @@ The Expense Reimbursement System (ERS) will manage the process of reimbursing em
 * Used JavaScript, Jason and Ajax in the front-end for calling server-side components.
 * Used Log4J for logging and JUnit Mockito for Testing.
 * Presentated the applicaton displaying its features.
+# Features
+Ready to Use
+* Users can register and login after they are registered
+* When logged in, users based on roles get different dashboards and functionalities.
+* Employees can view past tickets and add a new reimbuirsement request.
+* Admins can view all reimbursements for all employees and filter requests by status.
+* Admins can approve/deny an reimbursement. 
